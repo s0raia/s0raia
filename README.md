@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! I'm s0raia 👋
 
-<!--
-**s0raia/s0raia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Full-Stack Developer**, **Graphic Designer**, and **Translator** currently navigating a total career pivot. 🧠✨
 
-Here are some ideas to get you started:
+### 🛠️ Current Status: Housekeeping in Progress
+I am currently refactoring my projects and polishing my code to ensure it meets the high standards of **#A11Y** and **Clean Code** that I value. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Because I’m moving away from messy bootcamp collaboration and toward professional-grade builds, my repositories are temporarily **Private**. 
+
+### 🚀 Projects Coming Soon:
+* 🎸 **Chaotic The Harmony** – A full-stack E-commerce & Inventory platform for a fictional ska-punk band.
+* 🏎️ **Project Akina** – An Initial D-inspired real-time car telemetry simulator.
+* 🦖 **Dino-Transit** – A real-time transport app (with a Mesozoic twist).
+
+**If you're a recruiter or collaborator, check back soon—the green tiles are coming!**
