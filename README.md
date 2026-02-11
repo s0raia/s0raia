@@ -9,7 +9,7 @@ Because I’m moving away from messy bootcamp collaboration and toward professio
 
 ### 🚀 Projects Coming Soon:
 * 🎸 **Chaotic The Harmony** – A full-stack E-commerce & Inventory platform for a fictional ska-punk band.
-* 🏎️ **Project Akina** – An Initial D-inspired real-time car telemetry simulator.
+* 🏎️ **Initial Vroom** – An Initial D-inspired real-time car telemetry simulator.
 * 🦖 **Dino-Transit** – A real-time transport app (with a Mesozoic twist).
 
 **If you're a recruiter or collaborator, check back soon—the green tiles are coming!**
