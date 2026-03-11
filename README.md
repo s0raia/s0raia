@@ -1,4 +1,4 @@
-## Hi there! I'm s0raia 👋
+## Hi there! I'm Purrtatogon (Soraia) 👋
 
 I am a **Junior Full-Stack Developer**, **Graphic Designer**, and **Translator** currently navigating a total career pivot. 🧠✨
 
