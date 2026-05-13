@@ -1,27 +1,14 @@
-## Hi there! I'm purrtatogon 👋
-### Junior Full-Stack Developer | Cloud & DevOps Learner
----
-I’m a developer transitioning from Localization Engineering to building infrastructure-ready applications. My background gives me a unique focus on precision, global adaptability, and building software that works for everyone.
-
-### 🚀 Projects I'm Working On
-* 🎸 **CHAOTIC THE HARMONY** – A Java/Spring Boot e-commerce project for a fictional ska-punk band "Chaotic The Harmony" (CTH), where I’m exploring "self-healing" routines and basic CI/CD with GitHub Actions.
-
-    [Storefront Live Demo](https://chaotic-the-harmony-web.azurewebsites.net/) & [Admin Portal Demo](https://chaotic-the-harmony-web.azurewebsites.net/admin/login) | [Repo](https://github.com/purrtatogon/chaotic-the-harmony)
+## purrtatogon
+Full-Stack developer with a background in localization engineering. Looking to craft software that's reliable, inclusive, and pleasant to use — strong UX, solid accessibility, and a little room for fun. Powered by cats, potatoes, and cafés au lait.
 
 
-* 🦖 **DINO-TRANSIT** – An accessibility-minded take on a real-time public transit map, blended with retro pixel art, using WebSockets. I’m currently learning to migrate this from Leaflet to Mapbox GL JS.
+#### What I’m building
+
+* [**Chaotic The Harmony**](https://github.com/purrtatogon/chaotic-the-harmony) – Admin IMS/CMS plus storefront for a fictional ska-punk band, with a Neo-Brutalist UI. Built with Java Spring Boot, React, and PostgreSQL. Check out the [Admin Portal](https://cth-frontend-demo-28d7.up.railway.app/admin/login) and [Storefront](https://cth-frontend-demo-28d7.up.railway.app/) demos!
+
+* [**Initial Vroom**](https://github.com/purrtatogon/initial-vroom) – Head-to-head mountain-pass battles streamed to a telemetry dashboard, with a Midnight Run / ECU-gauge-panel UI. Built with Java Spring Boot, Angular, MongoDB, and live WebSockets. [Check out the demo](https://initial-vroom-frontend.onrender.com).
+
+* [**Dino Transit**](https://github.com/purrtatogon/dino-transit) – Accessibility-minded Lisbon (Portugal) transit map with dinosaur sprites—in a retro Game Boy × schematic-map aesthetic. Built with Java Spring Boot, React, Leaflet, and WebSockets. Planning v2 with Mapbox. [Check out the demo](https://dino-transit-frontend.onrender.com/).
 
 
-    [Live Demo](https://dino-transit-frontend.onrender.com/) | [Repo](https://github.com/purrtatogon/dino-transit)
-
-
-* 🏎️ **INITIAL VROOM** – A full-stack telemetry platform that simulates head-to-head mountain pass battles and visualizes the results in a real-time dashboard. Currently using this to practice high-frequency data streaming.
-
-
-    [Live Demo](https://initial-vroom-frontend.onrender.com) | [Repo](https://github.com/purrtatogon/initial-vroom)
-
-### 💻 Technical Toolbox (Learning & Growing)
-* **Back-end:** Java 21 (Spring Boot 3), SQL (PostgreSQL), MongoDB, REST APIs.
-* **Front-end:** React, Next.js, Angular, Tailwind CSS, TypeScript, WebSockets (STOMP).
-* **Cloud & DevOps:** Docker, GitHub Actions, Linux/Bash, Azure (In-progress).
-* **Core Focus:** Writing clean code with accessibility baked in from the start.
+Thanks for stopping by! ◕⩊◕
